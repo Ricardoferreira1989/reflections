@@ -1,0 +1,2 @@
+Qual é o resultado da mesclagem de dois branches? Por que o representamos no diagrama dessa forma?
+os dois branchs se tornam 1, pois é dessa forma que ele ficam.
